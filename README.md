@@ -1,4 +1,4 @@
-# Predicting Credit Card Consumption for a Leading Bank
+# Predicting Credit Card Consumption for a Bank
 
 A capstone machine learning project that predicts customers' average credit card spend for the next three months (July–September) using their demographics, transaction history, and banking behaviour from the preceding quarter (April–June).
 
